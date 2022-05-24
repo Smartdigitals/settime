@@ -5,4 +5,5 @@ This is SET TIME read me file
 
 - Home
 - About us
-- Contact us
+- Education
+- Tourism
