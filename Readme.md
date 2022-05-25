@@ -7,3 +7,4 @@ This is SET TIME read me file
 - About us
 - Education
 - Tourism
+- Our Team
