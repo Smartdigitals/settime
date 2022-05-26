@@ -8,3 +8,4 @@ This is SET TIME read me file
 - Education
 - Tourism
 - Our Team
+- Contact Us
